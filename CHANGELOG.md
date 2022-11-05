@@ -1,3 +1,3 @@
-## 0.1.0  Jun 26, 2019
+## 1.0.0
 
-* Initial version.
+* Improved README from previous library, extended support to Dart's new null-safety system.
