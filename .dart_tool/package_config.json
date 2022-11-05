@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "byte_array_input_stream",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.13"
+    }
+  ],
+  "generated": "2022-11-05T20:22:04.996743Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.4"
+}
