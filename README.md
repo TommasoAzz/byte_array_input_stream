@@ -5,8 +5,8 @@ Based on Tomonori Takao's work published on [Pub.dev](https://pub.dev/packages/b
 
 ## Add as a dependency
 ```yaml
-   dependencies:
-   byte_array_input_stream_like_java: 0.1.0
+dependencies:
+  byte_array_input_stream_like_java: ^1.0.0
 ```
 
 ## Usage

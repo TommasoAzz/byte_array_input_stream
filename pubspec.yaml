@@ -1,6 +1,6 @@
 name: byte_array_input_stream
 description: Library for re-implementing a binary reader like Java's own "ByteArrayInputStream" and "DataInputStream". Continuation of Tomonori Takao's work.
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/TommasoAzz/byte_array_input_stream
 
 environment:
